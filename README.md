@@ -1,0 +1,1 @@
+# infyone-calamares-config-next
